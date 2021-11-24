@@ -1,13 +1,128 @@
-body {
+*
+{
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+ 
+
+ 
+}
+.div-container
+{
+  
+  margin-top:5rem
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.input{
+ 
+}
+
+img
+{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.loginbtn
+{
+  float:right;
+ 
+  margin-right: -18rem;
+  font-size:2.0rem;
+  font-weight:bolder;
+  text-decoration: none;
+  color:navy;
+}
+.image
+{
+  width:10rem;
+  height:10rem;
+  border-radius:50%;
+}
+.login
+{
+  margin-top: 5rem;
+  margin-bottom: 4rem;
+  color:white;
+}
+label
+{
+  color: white;
+}
+input,select
+{
+  margin:1rem 1rem;
+  height: 2rem;
+  width: 16rem;
+  font-size: 1rem;
+  padding-left: 1rem;
+}
+.btn
+{
+  font-size: 1.2rem;
+  font-weight: bolder;
+  border-radius: 1rem;
+  text-decoration: none;
+  height: 2.4rem;
+  border-style: solid;
+  padding: 1rem 1rem;
+  
+ 
+  
+}
+form{
+  padding-bottom: 2rem;
+}
+#passwrd
+{
+  margin-bottom: 2rem;
+  
+}
+
+select,option{
+  color: black;
+}
+.datelabel
+{
+  margin-left: -4rem;
+}
+
+label
+{
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+.login-container
+{
+  width: 50%;
+  height: 70%;
+ 
+  border-radius:1rem;
+  background-color: cadetblue!important;
+padding: 5rem 5rem;
+padding-bottom: 10rem;
+}
+.imageuploader-container
+{
+  padding-top: 1rem;
+padding-bottom: 1rem;
+  color: black;
+width: 50%;
+height: 60%;
+
+border-radius: 1rem;
+background-color:cadetblue!important;
+
+}
+.logindiv,.container{
+  width: 100%;
+  height: 100%;
+  background-color: lavender;
+ 
+  
+}
+.btn:hover
+{
+  color: white;
+  background-color: navy;
 }
