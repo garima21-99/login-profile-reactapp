@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/login-profile-reactapp/static/css/main.1a4f4028.chunk.css",
+    "main.js": "/login-profile-reactapp/static/js/main.8dbeb571.chunk.js",
+    "main.js.map": "/login-profile-reactapp/static/js/main.8dbeb571.chunk.js.map",
+    "runtime-main.js": "/login-profile-reactapp/static/js/runtime-main.a1f30438.js",
+    "runtime-main.js.map": "/login-profile-reactapp/static/js/runtime-main.a1f30438.js.map",
+    "static/js/2.3965c449.chunk.js": "/login-profile-reactapp/static/js/2.3965c449.chunk.js",
+    "static/js/2.3965c449.chunk.js.map": "/login-profile-reactapp/static/js/2.3965c449.chunk.js.map",
+    "index.html": "/login-profile-reactapp/index.html",
+    "static/css/main.1a4f4028.chunk.css.map": "/login-profile-reactapp/static/css/main.1a4f4028.chunk.css.map",
+    "static/js/2.3965c449.chunk.js.LICENSE.txt": "/login-profile-reactapp/static/js/2.3965c449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f30438.js",
+    "static/js/2.3965c449.chunk.js",
+    "static/css/main.1a4f4028.chunk.css",
+    "static/js/main.8dbeb571.chunk.js"
+  ]
+}
